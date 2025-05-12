@@ -5,6 +5,7 @@
 // Zig functions are private by default but the main() function
 // should be public.
 //
+// haha new one
 // A function is made public with the "pub" statement like so:
 //
 //     pub fn foo() void {
@@ -16,6 +17,9 @@
 //
 const std = @import("std");
 
+new function is good;
 fn main() void {
+    hahsdjfio 
+    thiojfio jioajio jilasdfj
     std.debug.print("Hello world!\n", .{});
 }
